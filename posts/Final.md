@@ -2,8 +2,6 @@
 title: Final
 published_at: 2024-05-22
 snippet: An example of a blog post.
-disable_html_sanitization: true
-allow_math: true
 ---
 
 [Link to screenrecord Youtube]
